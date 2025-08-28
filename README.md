@@ -17,7 +17,7 @@ Example output:
 =====================================
   System Report for my-hostname
 =====================================
-```
+
 
 OS:      Ubuntu 22.04.4 LTS
 Kernel:  6.5.0-41-generic
@@ -34,6 +34,8 @@ Disk (/): 45G used, 120G available
 IP:      192.168.1.42
 
 =====================================
+
+```
 
 Features:
 - Displays OS, kernel and architecture
