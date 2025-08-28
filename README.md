@@ -13,9 +13,11 @@ Run the script in your terminal:
 
 Example output:
 
+```bash
 =====================================
   System Report for my-hostname
 =====================================
+```
 
 OS:      Ubuntu 22.04.4 LTS
 Kernel:  6.5.0-41-generic
